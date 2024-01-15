@@ -53,10 +53,22 @@ export const RESUME_DATA = {
   },
   education: [
     {
-      school: "Wrocław University of Technology",
-      degree: "Bachelor's Degree in Control systems engineering and Robotics",
-      start: "2007",
-      end: "2010",
+      school: "Malawi University of Business and Applied Sciences",
+      degree: "Bachelors Degree in Electronics and Telecommunications Engineering (Pending)",
+      start: "2019",
+      end: "2024",
+    },
+    {
+      school: "Marist Secondary School",
+      degree: "Malawi School Certificate of Education (MSCE) - 11 points",
+      start: "2016",
+      end: "2018",
+    },
+    {
+      school: "St John's Catholic Secondary School",
+      degree: "Junior Certificate of Education (JCE)",
+      start: "2014",
+      end: "2016",
     },
   ],
   work: [
@@ -125,6 +137,7 @@ export const RESUME_DATA = {
     "Auto CAD",
     "Linux server configurations",
     "AWS",
+    "Docker",
   ],
   projects: [
     {
