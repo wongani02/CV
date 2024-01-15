@@ -27,7 +27,7 @@ export const RESUME_DATA = {
   about:
     "Full Stack Software + Electronics and Telecommunications Engineer focused on building products with extra attention to detail and ingenuity",
   summary:
-    "As an Engineer, I have successfully taken multiple products from 0 to 1. I lead teams effectively, ensuring an environment where people can do their best work. Currently, I work mostly with TypeScript, React, Node.js, and GraphQL. I have over 8 years of experience in working remotely with companies all around the world.",
+    "As an Engineer, I have successfully taken multiple products from 0 to 1. I lead teams effectively, ensuring an environment where people can do their best work. Currently, I work mostly with Django, Python, TypeScript, React, Node.js, and GraphQL. ",
   avatarUrl: "",
   personalWebsiteUrl: "https://jarocki.me",
   contact: {
